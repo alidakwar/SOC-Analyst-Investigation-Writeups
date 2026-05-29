@@ -9,7 +9,7 @@ The project focuses on practical Security Operations Center (SOC) workflows incl
 To date, this repository reflects:
 
 - 35+ completed SOC investigation labs
-- 35+ completed security alert investigations
+- 40+ completed security alert investigations
 - Continuous blue team skill development through realistic SOC simulations
 
 The goal of this repository is to document investigation methodology, analytical reasoning, and technical findings while strengthening practical defensive security skills aligned with real-world SOC operations.
